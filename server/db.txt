@@ -1,0 +1,5 @@
+21f3001741
+kzFzRHJtuZwnD2W9
+
+
+mongodb+srv://21f3001741:kzFzRHJtuZwnD2W9@cluster0.uo9iu.mongodb.net/
